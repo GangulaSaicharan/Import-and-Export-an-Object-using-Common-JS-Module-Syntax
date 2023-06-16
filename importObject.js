@@ -1,0 +1,1 @@
+const nameOfPerson = require("./exportObject");
